@@ -3,10 +3,9 @@
 This project was done as Capstone project for the Data analysis course for Digigirls-Cybersafe foundation
 
 ## Project Overview
-An analysis on Sales data
 This data was analyzed and visualized usin spreadsheet(Microsoft Excel)
 
-Analysis is performed to generate insights on the following business questions
+Analysis is performed to generate insights on the following business questions:
 
 1. Which Region raked in the most Revenue?
 2. Who are the top five and bottom five Countries, based on profit?
